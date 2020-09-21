@@ -4,3 +4,6 @@ This project consists in two CloudFormation templates. The first one for VPC net
 ![CloudFormation templates](https://github.com/Lokey1978/udacity-devops-project2/tree/master/Udacity-Project%202/Cloudformation)
 
 
+Screenshots are available in ![screenshots](https://github.com/Lokey1978/udacity-devops-project2/tree/master/Udacity-Project%202)
+
+
